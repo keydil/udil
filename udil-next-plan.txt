@@ -2,7 +2,9 @@ The Plan
 
 -Html
 -Css
+ *Add animation
 -Js
+  *Framework Js
 -Python
 -C++
 -C#
