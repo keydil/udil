@@ -1,0 +1,7 @@
+UDIL RESOLUSI
+I will consistently study programming for 6 hours a day and gradually increase my study time.
+First, I will start with web development.
+Secondly, because I enjoy playing games, I will try my hand at game development to explore new challenges and improve my programming skills even further. 
+Moreover, I would also like to explore mobile app development and build my own applications.
+Additionally, diving into data science and machine learning seems intriguing, as it offers opportunities to work on exciting projects and solve real-world problems using AI algorithms. 
+Finally, I aim to contribute to open-source projects and collaborate with other developers to gain exposure to diverse perspectives and enhance my coding abilities.
