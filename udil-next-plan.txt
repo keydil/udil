@@ -5,8 +5,11 @@ The Plan
  *Add animation
 -Js
   *Framework Js
-  *Node Js
+   ^ Vue
+   ^ React js
 -Python
+- PHP Framework
+  ^ Laravel
 -C++
  *Dinobot game
 -C#
